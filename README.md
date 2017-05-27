@@ -1,8 +1,5 @@
 # WinXPSP2.Cermalus
-Malware WinXPSP2.Cermalus
-
-Understanding WinXPSP2.Cermalus
-In this post, I will explain the WinXPSP2.Cermalus coded by Pluf:
+Understanding WinXPSP2.Cermalus by Dreg
 
 The build of WinXPSP2.Cermalus is a dropper.
 
