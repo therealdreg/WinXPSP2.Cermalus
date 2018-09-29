@@ -8,7 +8,7 @@
 ;   who help me and wish to remain anonymous ;)
 ;
 
-; start includes by Dreg for masm32 compatibility:
+; start includes by Dreg for masm32 (m32v9r, MASM32 9.0 version) compatibility:
 .586 ; rdtsc...                                    
 .model flat, stdcall                     
 option casemap :none                    
