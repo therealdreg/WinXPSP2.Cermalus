@@ -1,6 +1,8 @@
 # WinXPSP2.Cermalus
 Understanding WinXPSP2.Cermalus by Dreg
 
+note: this malware works better in a machine with only **ONE** core
+
 Plese, consider make a donation: https://github.com/sponsors/therealdreg
 
 The build of WinXPSP2.Cermalus is a dropper.
