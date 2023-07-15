@@ -2,7 +2,7 @@
 
 WinXPSP2.Cermalus on stereoids, supporting all 32 bits Windows version: https://github.com/therealdreg/Win.Cerdalux
 
-Understanding WinXPSP2.Cermalus by Dreg
+## Understanding WinXPSP2.Cermalus by Dreg
 
 note: this malware works better in a machine with only **ONE** core
 
